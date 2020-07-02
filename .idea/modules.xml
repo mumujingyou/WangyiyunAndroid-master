@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\TodayInformation.iml" filepath="E:\AndroidProject\TodayInformation-master\TodayInformation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TodayInformation-master.iml" filepath="$PROJECT_DIR$/TodayInformation-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotation/annotation.iml" filepath="$PROJECT_DIR$/annotation/annotation.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\annotation\annotation.iml" filepath="E:\AndroidProject\TodayInformation-master\annotation\annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\app\app.iml" filepath="E:\AndroidProject\TodayInformation-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apt/apt.iml" filepath="$PROJECT_DIR$/apt/apt.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\apt\apt.iml" filepath="E:\AndroidProject\TodayInformation-master\apt\apt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\buildSrc\buildSrc.iml" filepath="E:\AndroidProject\TodayInformation-master\buildSrc\buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http/http.iml" filepath="$PROJECT_DIR$/http/http.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\http\http.iml" filepath="E:\AndroidProject\TodayInformation-master\http\http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ipc/ipc.iml" filepath="$PROJECT_DIR$/ipc/ipc.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\ipc\ipc.iml" filepath="E:\AndroidProject\TodayInformation-master\ipc\ipc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jetpack/jetpack.iml" filepath="$PROJECT_DIR$/jetpack/jetpack.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\jetpack\jetpack.iml" filepath="E:\AndroidProject\TodayInformation-master\jetpack\jetpack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp/mvp.iml" filepath="$PROJECT_DIR$/mvp/mvp.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\mvp\mvp.iml" filepath="E:\AndroidProject\TodayInformation-master\mvp\mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player/player.iml" filepath="$PROJECT_DIR$/player/player.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\player\player.iml" filepath="E:\AndroidProject\TodayInformation-master\player\player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin/plugin.iml" filepath="$PROJECT_DIR$/plugin/plugin.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\plugin\plugin.iml" filepath="E:\AndroidProject\TodayInformation-master\plugin\plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refresh/refresh.iml" filepath="$PROJECT_DIR$/refresh/refresh.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\refresh\refresh.iml" filepath="E:\AndroidProject\TodayInformation-master\refresh\refresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task/task.iml" filepath="$PROJECT_DIR$/task/task.iml" />
+      <module fileurl="file://E:\AndroidProject\TodayInformation-master\task\task.iml" filepath="E:\AndroidProject\TodayInformation-master\task\task.iml" />
+    </modules>
+  </component>
+</project>
