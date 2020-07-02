@@ -46,7 +46,7 @@ public class MvpEmptyViewProcesor {
                     continue;
                 }
                 mList.add(currentType);
-                //生成本身的方法
+//                生成本身方法
                 StringBuilder s = new StringBuilder();
                 List<? extends Element> enclosedElements = element.getEnclosedElements();
                 for (int i = 0; i < enclosedElements.size(); i++) {
@@ -72,7 +72,7 @@ public class MvpEmptyViewProcesor {
     }
 
     /**
-     * 递归获取 父类的方法
+     * 递归获取父类
      *
      * @param element
      * @param s
